@@ -6,7 +6,6 @@
 - [Overview](#overview)
 - [Digital Components](#digitalcomponents)
 - [Tests](#tests)
-- [References](#references)
 - [Licence](#licence)
 - [Contact](#contact)
 
@@ -34,11 +33,6 @@ If oxygen is <95 % or body temperature is above 38°C or below 36°C or pulse < 
 ## 🧪 Tests
 
 - Run and tested on Wokwi.com
-
----
-
-## 🔗 References
-1. ...
 
 ---
 
