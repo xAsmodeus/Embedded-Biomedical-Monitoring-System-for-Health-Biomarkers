@@ -4,7 +4,7 @@
 
 ## 📚 Table of Contents
 - [Overview](#overview)
-- [Digital Components](#digitalcomponents)
+- [Wiring & Installation](#wiringinstallation)
 - [Tools & Technologies](#tools-technologies)
 - [Licence](#licence)
 
@@ -29,7 +29,7 @@ The idea was to create a biomedical system that measures 3 values: Body Temperat
 
 ---
 
-## 🔧 Wiring and Installation
+## ⚙️ Wiring & Installation
 
 <div align="center">
   <p>
