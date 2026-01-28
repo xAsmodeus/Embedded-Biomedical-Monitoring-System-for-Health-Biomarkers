@@ -20,12 +20,6 @@ The idea was to create a biomedical system that measures 3 values: Body Temperat
 | **Body Temp**| < 36°C OR > 38 |
 | **Pulse**| < 50 OR  > 130 |
 
-
-
-O2 < 95%
-Body Temp < 36°C OR Body Temp > 38
-Pulse < 50 OR Pulse > 130
-
 <div align="center">
   <p>
       <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/0f81f10e-7414-4ed6-bb8f-27c7369b639e" />
