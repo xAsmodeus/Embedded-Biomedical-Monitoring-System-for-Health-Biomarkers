@@ -39,6 +39,10 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
+## 📊 Results
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Language:** C++
