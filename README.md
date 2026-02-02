@@ -52,7 +52,4 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 ---
 
 ## ⚖️ Licence
-(empty for the moment)
-
----
-
+See the [Licence](LICENCE.md/) 
