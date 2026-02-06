@@ -41,6 +41,11 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ## 📊 Results
 
+<div align="center">
+  <p>
+      <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/55c3557d-889c-43ae-8b5f-40935371065c"/>
+  </p> </div>
+
 ---
 
 ## 🛠️ Tools & Technologies
