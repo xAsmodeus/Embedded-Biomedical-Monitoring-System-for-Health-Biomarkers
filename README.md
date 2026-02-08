@@ -66,4 +66,4 @@ Abnormal Results
 ---
 
 ## 📜 License
-See the [License](LICENSE.md/) 
+See the [License](LICENSE.md/) for more information.
