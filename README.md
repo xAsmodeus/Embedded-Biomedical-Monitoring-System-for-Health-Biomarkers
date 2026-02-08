@@ -7,7 +7,7 @@
 - [Wiring & Installation](#wiringinstallation)
 - [Results](#results)
 - [Tools & Technologies](#tools-technologies)
-- [Licence](#licence)
+- [License](#license)
 
 --- 
 
@@ -65,5 +65,5 @@ Abnormal Results
 
 ---
 
-## ⚖️ Licence
-See the [Licence](LICENCE.md/) 
+## ⚖️ License
+See the [License](LICENSE.md/) 
