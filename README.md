@@ -2,16 +2,16 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 - [Overview](#overview)
 - [Wiring & Installation](#wiringinstallation)
 - [Results](#results)
-- [Tools & Technologies](#tools-technologies)
+- [Technology Stack](#teck-stack)
 - [License](#license)
 
 --- 
 
-## Overview
+## 🧭 Overview
 
 A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen. When it detects unusual values that could put a person in danger, the system warns the user with special components such as the LED light and the Buzzer. If the person is considered to be in danger the LED lights up and the buzzer sounds , as the display warns the user with "**CAUTION**" while providing the measured values. If, on the other hand, the user has normal values, the buzzer does not sound , the LED does not light and the display provides the message "**YOU ARE OKAY**".
 
@@ -30,7 +30,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
-## Wiring & Installation
+## 🔌 Wiring & Installation
 
 <div align="center">
   <p>
@@ -39,7 +39,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
-## Results
+## 📊 Results
 
 Normal Results
 
@@ -57,7 +57,7 @@ Abnormal Results
   
 ---
 
-## Tools & Technologies
+## 🧰 Technology Stack
 
 - **Language:** C++
 - **Libraries:** DallasTemperature, OneWire
@@ -65,5 +65,5 @@ Abnormal Results
 
 ---
 
-## License
+## 📜 License
 See the [License](LICENSE.md/) 
