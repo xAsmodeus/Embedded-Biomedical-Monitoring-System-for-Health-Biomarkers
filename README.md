@@ -8,6 +8,7 @@
 - [Results](#results)
 - [Technology Stack](#teck-stack)
 - [License](#license)
+- [Credits](#credits)
 
 --- 
 
@@ -65,5 +66,10 @@ Abnormal Results
 
 ---
 
-## 📜 License
-See the [License](LICENSE.md/) for more information.
+## 🛡️ Licence
+
+MIT [License](LICENSE/) 
+
+---
+
+## 🙌 Credits
