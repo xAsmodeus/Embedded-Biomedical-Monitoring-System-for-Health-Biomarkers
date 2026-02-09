@@ -42,20 +42,14 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ## 📊 Results
 
-Normal Results
+1. Normal Results
 
-<div align="center">
-  <p>
-      <img width="700" height="800" alt="normal_results" src="https://github.com/user-attachments/assets/55c3557d-889c-43ae-8b5f-40935371065c"/>
-  </p> </div>
+<img width="700" height="800" alt="normal_results" src="https://github.com/user-attachments/assets/55c3557d-889c-43ae-8b5f-40935371065c"/>
 
-Abnormal Results
+2. Abnormal Results
 
-<div align="center">
-  <p>
-      <img width="700" height="800" alt="abnormal_results" src="https://github.com/user-attachments/assets/6ce9ca5e-8273-43ee-b3dd-5b3b9b8a768f" />
-  </p> </div>
-  
+<img width="700" height="800" alt="abnormal_results" src="https://github.com/user-attachments/assets/6ce9ca5e-8273-43ee-b3dd-5b3b9b8a768f" />
+
 ---
 
 ## 🧰 Technology Stack
