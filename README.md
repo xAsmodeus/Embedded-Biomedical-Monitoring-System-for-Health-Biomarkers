@@ -72,4 +72,19 @@ MIT [License](LICENSE/)
 
 ---
 
-## 🙌 Credits 🚧under construction🚧
+## 🙌 Credits
+
+| Sources |
+|--------|
+| https://wokwi.com/projects/393691816880589825 | 
+| https://eclass.uth.gr/modules/document/index.php?course=DIB_U_211&openDir=/63f26fcdj5UH |
+| https://randomnerdtutorials.com/guide-for-ds18b20-temperature-sensor-with-arduino/ |
+| https://www.youtube.com/watch?v=sq3jp6P29oE |
+| https://www.youtube.com/watch?v=eGHfQz_ESpo |
+| https://www.youtube.com/watch?v=w9_UrWdPWeo&list=PLfdwhnay89Kn3sd6n_kGYg70cWQKG1n6j |
+| https://chatgpt.com |
+| arduino.cc |
+
+
+
+
