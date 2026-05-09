@@ -79,6 +79,10 @@ MIT [License](LICENSE/)
 | https://chatgpt.com |
 | https://www.arduino.cc |
 
+---
+
+<div align="center">
+
 ## 📬 Contact
 
 For any particular questions you can reach me via the email: georgekoupni@gmail.com
