@@ -60,7 +60,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
-## 🛡️ Licence
+## 🛡️ License
 
 MIT [License](LICENSE/) 
 
