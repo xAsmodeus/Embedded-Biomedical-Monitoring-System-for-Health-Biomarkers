@@ -9,6 +9,7 @@
 - [Technology Stack](#-technology-stack)
 - [License](#-license)
 - [Credits](#-credits)
+- [Contact](#-contact)
 
 --- 
 
