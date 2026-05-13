@@ -3,12 +3,12 @@
 ---
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Wiring & Installation](#wiringinstallation)
-- [Results](#results)
-- [Technology Stack](#teck-stack)
-- [License](#license)
-- [Credits](#credits)
+- [Overview](#-overview)
+- [Wiring & Installation](#wiring-installation)
+- [Results](#-results)
+- [Technology Stack](#-teck-stack)
+- [License](#-license)
+- [Credits](#-credits)
 
 --- 
 
