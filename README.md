@@ -6,7 +6,7 @@
 - [Overview](#-overview)
 - [Wiring & Installation](#wiring-installation)
 - [Results](#-results)
-- [Technology Stack](#-teck-stack)
+- [Technology Stack](#-technology-stack)
 - [License](#-license)
 - [Credits](#-credits)
 
