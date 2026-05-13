@@ -31,7 +31,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
-## 🔌 Wiring & Installation
+## 🔧 Wiring & Installation
 
 <div align="center">
   <p>
