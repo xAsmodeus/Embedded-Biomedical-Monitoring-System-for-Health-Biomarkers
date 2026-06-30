@@ -4,7 +4,7 @@
 
 ## 📑 Table of Contents
 - [Overview](#-overview)
-- [Wiring & Installation](#wiring-installation)
+- [Wiring & Installation](#-wiring-installation)
 - [Results](#-results)
 - [Technology Stack](#-technology-stack)
 - [License](#-license)
