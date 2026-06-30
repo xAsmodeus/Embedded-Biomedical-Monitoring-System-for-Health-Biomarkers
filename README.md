@@ -4,7 +4,7 @@
 
 ## 📑 Table of Contents
 - [Overview](#-overview)
-- [Wiring & Installation](#-wiring-installation)
+- [Installation](#-installation)
 - [Results](#-results)
 - [Technology Stack](#-technology-stack)
 - [License](#-license)
@@ -32,7 +32,7 @@ A biomedical system that measures 3 values: Body Temperature , Pulse and Oxygen.
 
 ---
 
-## ⚙️ Wiring & Installation
+## ⚙️Installation
 
 <div align="center">
   <p>
