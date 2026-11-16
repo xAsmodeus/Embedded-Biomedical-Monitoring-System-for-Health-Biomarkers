@@ -82,6 +82,7 @@ MIT [License](LICENSE/)
 | https://www.youtube.com/watch?v=w9_UrWdPWeo&list=PLfdwhnay89Kn3sd6n_kGYg70cWQKG1n6j |
 | https://chatgpt.com |
 | https://www.arduino.cc |
+| Google AI Assistant |
 
 ---
 
